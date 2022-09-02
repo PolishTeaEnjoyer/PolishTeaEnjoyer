@@ -3,6 +3,8 @@
  - Python
  - C++ for game "hacking" (trainers for single player games)
  - Rust (still learning)
+ 
+the name "PolishTeaEnjoyer" is probably temporary
 # Notable Projects
 None yet (on this acc)
 
