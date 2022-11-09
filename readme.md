@@ -12,4 +12,4 @@ the name "PolishTeaEnjoyer" is probably temporary | Boy do I suck at coming up w
 None yet (on this acc)
 
 # Github Stats :chart_with_upwards_trend:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=PolishTeaEnjoyer&hide_border==true&count_private=true&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=codebased-xyz&hide_border==true&count_private=true&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
