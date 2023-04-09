@@ -1,5 +1,5 @@
 # Readme.md  
  - Python
  - Rust
- - C++
+ - C++  
 Also I use Void linux + herbstluftwm  
